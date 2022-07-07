@@ -28,8 +28,8 @@ Data wrangling steps consisted of:
 - Storing data
 - Analyzing and visualizing wrangled data
 - Reporting 
-   - wrangled effort (wrangle_report.pdf) 
-   - data analyses and visualizations (act_report.pdf)
+   - wrangled effort (Wrangle Report.pdf) 
+   - data analyses and visualizations (Act Report.pdf)
 
 ## The Data
 In this project, I worked on the following three datasets.
