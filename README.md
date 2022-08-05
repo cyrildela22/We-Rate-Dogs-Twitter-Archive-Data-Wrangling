@@ -1,7 +1,7 @@
 # We-Rate-Dogs-Twitter-Archive-Data-Wrangling
 ## Introduction
 This project was a partial fulfilment of the Udacity Data Analyst Nanodegree program and its primary objective focused on wrangling data from the WeRateDogs Twitter account via Python which is documented in a Jupyter Notebook (wrangle_act.ipynb). WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators sometimes are greater than 10. 11/10, 12/10, 13/10, etc because some owners think they are good dogs. WeRateDogs has over 4 million followers and has received international media coverage.
-
+![Dog Picture](/Pupper.jpg)
 ## Installation
 Installation of the following packages via conda or pip.
 - pandas
